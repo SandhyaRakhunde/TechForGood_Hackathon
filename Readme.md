@@ -26,6 +26,7 @@
 - **Database:** MongoDB
 - **Additional Tools:** Git, GitHub
 
+
 # REST API
 
 ## Endpoints for Job Postings
