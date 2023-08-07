@@ -28,7 +28,17 @@
 
 ## Screenshots - 
 
-![home_page](Screenshots/s1.png)
+![s1](https://github.com/SandhyaRakhunde/TechForGood_Hackathon/assets/84397275/337e2c16-1b86-4231-babe-ace320f331a4)
+
+![s2](https://github.com/SandhyaRakhunde/TechForGood_Hackathon/assets/84397275/5c356efa-d135-4202-a0ee-00c73e1f4050)
+
+![s3](https://github.com/SandhyaRakhunde/TechForGood_Hackathon/assets/84397275/5cb31d05-e8b5-4103-8e9f-31b6d893144d)
+
+![s4](https://github.com/SandhyaRakhunde/TechForGood_Hackathon/assets/84397275/041148b9-73e0-4f9c-8c21-25fff31d36d1)
+
+![s5](https://github.com/SandhyaRakhunde/TechForGood_Hackathon/assets/84397275/e2bb8698-34ff-48e8-bd43-2e5724c6b3a1)
+
+![s6](https://github.com/SandhyaRakhunde/TechForGood_Hackathon/assets/84397275/dbcbdeec-f3bc-42fb-817a-00e54dc8f8a6)
 
 
 # REST API
