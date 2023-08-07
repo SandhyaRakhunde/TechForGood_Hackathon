@@ -1,3 +1,31 @@
+# Saksham Gram Mahila 🏠
+
+*Saksham Gram Mahila* is a web application aimed at empowering women in rural areas by providing them with domestic job opportunities, homemade products or services to sell, and seasonal work options. The platform serves as a bridge between job seekers and employers, enabling women to showcase their talents and find suitable work in their local communities.
+
+- Easy access, posting, and selling home products through the web application.
+- Empowering women in rural areas with diverse job opportunities.
+- Striving to create a positive impact on women's lives.
+- Contributing to the sustainable development of rural areas.
+
+## Features ✨
+
+- :writing_hand: **Post Domestic Jobs:** Employers can post domestic jobs available around them or from anywhere, providing opportunities for women across regions to find work.
+
+- :package: **Post Domestic Service Requirement or Products to Sell:** Users can post requirements for domestic services they need or homemade products they want to sell, promoting entrepreneurship and empowering women.
+
+- :mag_right: **Skill-based Job Matching:** Women can take a skill assessment quiz, and the platform suggests domestic jobs matching their skillset.
+
+- :round_pushpin: **Location-based Job Search:** Users can search for domestic jobs available in their nearest locations, ensuring convenience and accessibility.
+
+- :bookmark_tabs: **Category-based Job Search:** Women can search for domestic jobs based on specific categories, such as services or products to sell, as well as by the required job title.
+
+## Tech Stack 🛠️
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js, Postman
+- **Database:** MongoDB
+- **Additional Tools:** Git, GitHub
+
 # REST API
 
 ## Endpoints for Job Postings
